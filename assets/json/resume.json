@@ -22,116 +22,127 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
+      "institution": "Vidyasagar University, Midnapore, West Bengal",
+      "location": "West Bengal, India",
+      "url": "https://www.iitg.ac.in/",
+      "area": "Electronics",
+      "studyType": "M.Sc",
+      "startDate": "2020-07-xx",
+      "endDate": "2022-09-xx",
+      "score": "9.0",
+      "courses": ["M.Sc cources"]
+    },
+    {
       "institution": "IIT Guwahati, Guwahati, Assam",
-      "location": "Zurich, Switzerland",
+      "location": "Assam, India",
       "url": "https://www.iitg.ac.in/",
       "area": "Systems, Control, and Automation (SCA) ",
       "studyType": "PhD",
       "startDate": "2024-07-23",
       "endDate": "",
       "score": "9",
-      "courses": ["Linear Algebra"]
+      "courses": ["Linear Algebra", "Linear System Theory", "Optimization", "Nonlinear System and Control"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  // "work": [
+  //   {
+  //     "name": "Institute for Advanced Study, Princeton University",
+  //     "position": "Professor of Theoretical Physics",
+  //     "url": "https://example.com",
+  //     "startDate": "1933-01-01",
+  //     "endDate": "1955-01-01",
+  //     "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+  //     "highlights": ["Relativity"]
+  //   }
+  // ],
+  // "volunteer": [
+  //   {
+  //     "organization": "People's Climate March",
+  //     "location": "Zurich, Switzerland",
+  //     "position": "Lead Organizer",
+  //     "url": "https://example.com",
+  //     "startDate": "2014-04-01",
+  //     "endDate": "2015-07-01",
+  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //   }
+  // ],
+  // "awards": [
+  //   {
+  //     "title": "Nobel Prize in Physics",
+  //     "date": "1921-11-01",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   }
+  // ],
+  // "certificates": [
+  //   {
+  //     "name": "Machine Learning",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-location-dot"
+  //   },
+  //   {
+  //     "name": "Quantum Computing",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-tag"
+  //   },
+  //   {
+  //     "name": "Quantum Information",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-envelope"
+  //   },
+  //   {
+  //     "name": "Quantum Cryptography",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-hashtag"
+  //   },
+  //   {
+  //     "name": "Quantum Communication",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-calendar"
+  //   },
+  //   {
+  //     "name": "Quantum Teleportation",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-clipboard-check"
+  //   }
+  // ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Accurate Kinematic-Parameters Estimation Using IMU and GPS Sensors Fusion",
+      "publisher": "IEEE Sensors Journal",
+      "releaseDate": "2024-09-20",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10685061",
+      "summary": "In this work, we developed a kinematic parameters estimator (KPE) using global positioning system (GPS) and inertial measurement unit (IMU) sensors embedded with a microcontroller. A Kalman filter is implemented in KPE to fuse IMU and GPS information. The filter estimates the short-range and long-rage positions simultaneously with the combination of the GPS data and IMU orientation information. We considered Kalman filter for sensor fusion which provides accurate position estimation despite of noise and drift. We have also performed the field trials to demonstrate the usability of the developed KPE. Evaluation of proposed solution through experiments in indoor and outdoor environments, demonstrating the position accuracy with few centimeters for short-range positioning and within a meter for long-range positioning."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Design of a Cost-Effective Remote Health Monitoring System Using IoT",
+      "publisher": "Springer Nature Singapore",
+      "releaseDate": "2023-03-01",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-99-2710-4_11",
+      "summary": "An IoT-based health monitoring system is developed by which a patient at a remote location can be monitored 24x7 without any family member or health staff and updates the health data in real time using the Internet. The health monitoring system uses an Arduino board, a MAX30102 sensor, and a website. After attaching to a fingertip, the sensor senses the patient’s body temperature and heart rate and sends that to the Arduino board for conversion to digital forms. Arduino board converts the health data to digital format and uploads the real time data to a database. The website uses an authentication and authorization process to verify whether the user is valid. After proper validation, it shows health data on the website according to the role of the logged user. One can monitor a patient’s health data with this device from anywhere in the world, having an Internet connection."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
+      "name": "VLSI Implementation of Neural Network Based Emergent Behavior Model for Robot Control",
+      "publisher": "IEEE",
+      "releaseDate": "2022-10-14",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": "This paper reports the VLSI implementation of NN (N eural N etwork) based emergent behavior model for high-speed robot control. Augmented FSM (F inite-S tate M achine) is considered to implement the emergent behavior. We performed a system level simulation using our proposed model. Then, we transformed the model to RTL (R egister-T ransfer L evel) for circuit simulation. In this study, we considered multiple-inputs and multiple-outputs NN. Our implementation method improves speed of execution and accuracy and compare the result with conventional neural network. For activation function in NN, we implemented sigmoid function with second order approximation to educe complexity. We used walking gesture of Kondo KHR-3HV robot to verify the model."
     }
   ],
   "skills": [
@@ -151,7 +162,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
